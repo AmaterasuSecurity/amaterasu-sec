@@ -24,7 +24,7 @@ const IndexPage = () => {
           href="https://linkedin.com/in/alvinl-li"
           target="_blank"
         >
-          Twitter
+          LinkedIn
         </Button>
         <Button
           size="large"
