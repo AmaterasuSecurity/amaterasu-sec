@@ -20,7 +20,7 @@ export class Header extends Component<Props> {
           </Menu.Item>
           <Menu.Item icon={<GithubOutlined />}>
             <a
-              href="https://github.com/dr0pp3dpack3ts
+              href="https://github.com/dr0pp3dpack3ts"
               target="_blank"
             >
               GitHub
