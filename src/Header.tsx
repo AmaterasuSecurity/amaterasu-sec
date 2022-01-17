@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import { Button, Menu, Row } from 'antd'
-import { GithubOutlined, TwitterOutlined } from '@ant-design/icons'
+import { GithubOutlined } from '@ant-design/icons'
 
 interface Props {
   siteTitle: string
