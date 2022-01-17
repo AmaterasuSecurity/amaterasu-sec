@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Ant-Design Documentation Starter',
+    title: 'Amaterasu Security',
   },
   plugins: [
     `gatsby-plugin-typescript`,
