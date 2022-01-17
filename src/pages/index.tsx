@@ -13,15 +13,9 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Gatsby Ant Design Docs Boilerplate
+        Amaterasu Security
       </p>
-      <h2>A gatsby starter to create documentation websites</h2>
-      <p>
-        This is a fork of{' '}
-        <a href="https://github.com/cvluca/gatsby-starter-markdown">
-          https://github.com/cvluca/gatsby-starter-markdown
-        </a>
-      </p>
+      <h2>This is just the icing on the cake...</h2>
       <br />
       <Button.Group size="large">
         <Button
@@ -35,14 +29,14 @@ const IndexPage = () => {
         <Button
           size="large"
           icon={<GithubOutlined />}
-          href="https://github.com/jannikbuschke/gatsby-antd-docs"
+          href="https://github.com/dr0pp3dpack3ts"
           target="_blank"
         >
           Github
         </Button>
 
         <Button type="primary" size="large">
-          <Link to="/docs/template/get-started/introduction">Get Started</Link>
+          <Link to="/docs/write-ups/">Get Started</Link>
         </Button>
       </Button.Group>
     </div>
