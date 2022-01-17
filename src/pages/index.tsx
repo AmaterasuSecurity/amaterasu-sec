@@ -17,7 +17,7 @@ const IndexPage = () => {
       </p>
       <h2>This is just the icing on the cake...</h2>
       <br />
-      <Button.Group>
+      <Button.Group size="large">
         <Button
           size="large"
           icon={<GithubOutlined />}
