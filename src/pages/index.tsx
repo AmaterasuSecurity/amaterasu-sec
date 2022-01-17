@@ -8,7 +8,7 @@ const IndexPage = () => {
     <div align="center" style={{ padding: 80 }}>
       <p
         style={{
-          color: 'cornflowerblue',
+          color: 'red',
           fontSize: 50,
           fontWeight: 'bold',
         }}
