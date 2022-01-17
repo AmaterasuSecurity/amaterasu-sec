@@ -20,8 +20,8 @@ const IndexPage = () => {
       <Button.Group size="large">
         <Button
           size="large"
-          icon={<TwitterOutlined />}
-          href="https://twitter.com/jannikbuschke"
+          icon={<LinkedInOutlined />}
+          href="https://linkedin.com/in/alvinl-li"
           target="_blank"
         >
           Twitter
@@ -36,7 +36,7 @@ const IndexPage = () => {
         </Button>
 
         <Button type="primary" size="large">
-          <Link to="/docs/write-ups/">Get Started</Link>
+          <Link to="/docs/write-ups/">Write-Ups</Link>
         </Button>
       </Button.Group>
     </div>
