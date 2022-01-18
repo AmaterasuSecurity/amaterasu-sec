@@ -19,7 +19,7 @@ const IndexPage = () => {
       </p>
       <h2>The great sun of the kami.</h2>
       <Layout>
-          <img src={`../../amaterasu.jpg`}
+          <img src={`../static/amaterasu.jpg`}
         </Layout>
       <br />
       <Button.Group size="large">
