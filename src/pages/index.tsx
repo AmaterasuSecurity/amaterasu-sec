@@ -14,7 +14,7 @@ const IndexPage = () => {
         }}
       >
         Amaterasu Security
-        <img src={'../../amaterasu.jpg'} alt="Amaterasu Okami" />
+      
       </p>
       <h2>The great sun of the kami.</h2>
       <br />
