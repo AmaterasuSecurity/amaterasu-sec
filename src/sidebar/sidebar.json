@@ -9,9 +9,11 @@
     ]
   },
   {
+    "entry": "Write-Ups",
     "name": "Write-Ups",
-    "link": "/docs/write-ups/Mr.RobotCTF"
-
+    "items": [
+      "/docs/write-ups/Mr.RobotCTF"
+    ]
   }
 
 ]
