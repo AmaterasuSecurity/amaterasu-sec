@@ -18,7 +18,7 @@ const IndexPage = () => {
         console.log(amaterasu)
         function Header() {
   // Import result is the URL of your image
-        return <img src={amaterasu} alt="Amaterasu Okami" />
+        return <img src={amaterasu} />
       }
       </p>
       <h2>The great sun of the kami.</h2>
