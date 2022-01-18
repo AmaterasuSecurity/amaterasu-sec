@@ -1,19 +1,12 @@
-
 [
   {
-    "entry": "Docs",
-    "name": "Docs",
-    "link": "/docs",
-    "items": [
-      "write-ups"
-    ]
-  },
-  {
-    "entry": "Write-Ups",
     "name": "Write-Ups",
+    "link": "",
     "items": [
-      "docs/write-ups/Mr.RobotCTF"
+      {
+        "name": "TryHackMe",
+        "link": "/docs/write-ups/TryHackMe/Mr.RobotCTF"
+      }
     ]
   }
-
 ]
