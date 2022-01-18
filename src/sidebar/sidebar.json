@@ -1,13 +1,35 @@
+
 [
   {
-    "name": "Write-Ups",
-    "link": "",
-    "items": [
-      {
-        "name": "TryHackMe",
-        "link": "/docs/write-ups"
-      }
-    
+    "entry": "Docs",
+    "name": "Docs",
+    "child_entries": [
+      "write-ups"
     ]
-  } 
+  },
+  {
+    "entry": "Write-Ups",
+    "name": "Write-Ups",
+    "items": [
+      "docs/write-ups/Mr.RobotCTF"
+    ]
+  }
+  // {
+/*     "entry": "Guide",
+    "name": "Guide",
+    "items": [
+      "docs/guide/anchor",
+      "docs/guide/contents",
+      "docs/guide/menu-items",
+      "docs/guide/sidebar" */
+    // ]
+/*   },
+  {
+    "entry": "Blog",
+    "name": "Blog",
+    "items": [
+      "blog/first-blog",
+      "blog/second-blog" */
+/*     ]
+  } */
 ]
