@@ -2,8 +2,7 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
-import amaterasu from "../../images/amaterasu.jpg"
-import Layout from 'src/Layout'
+import Layout from "src/Layout"
 
 const IndexPage = () => {
   return (
@@ -15,13 +14,13 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Amaterasu Security
-      <Layout>
-        <img src={'../../amaterasu.jpg'} />
-      </Layout>
- 
+        Amaterasu Security 
+                 
       </p>
       <h2>The great sun of the kami.</h2>
+      <Layout>
+          <img src={`../../amaterasu.jpg`}
+        </Layout>
       <br />
       <Button.Group size="large">
         <Button
