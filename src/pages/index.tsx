@@ -2,7 +2,7 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
-
+import amaterasu from "../../images/amaterasu.jpg"
 const IndexPage = () => {
   return (
     <div align="center" style={{ padding: 80 }}>
@@ -14,7 +14,7 @@ const IndexPage = () => {
         }}
       >
         Amaterasu Security
-        <img src={'../../amaterasu.jpg'} alt="Amaterasu Okami" />
+        <img src={'../../amaterasu.jpg'} />
       </p>
       <h2>The great sun of the kami.</h2>
       <br />
