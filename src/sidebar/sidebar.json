@@ -4,7 +4,9 @@
     "entry": "Docs",
     "name": "Docs",
     "link": "/docs",
-    "items": "write-ups"
+    "child_entries": [
+      "write-ups"
+    ]
   },
   {
     "name": "Write-Ups",
