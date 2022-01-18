@@ -3,16 +3,15 @@
   {
     "entry": "Docs",
     "name": "Docs",
-    "child_entries": [
+    "link": "/docs",
+    "items": [
       "write-ups"
     ]
   },
   {
-    "entry": "Write-Ups",
     "name": "Write-Ups",
-    "items": [
-      "docs/write-ups/Mr.RobotCTF"
-    ]
+    "link": "/docs/write-ups/Mr.RobotCTF"
+
   }
 
 ]
