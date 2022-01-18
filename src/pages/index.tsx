@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
-import { GithubOutlined } from '@ant-design/icons'
+import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
 
 const IndexPage = () => {
   return (
@@ -18,6 +18,15 @@ const IndexPage = () => {
       <h2>The great sun of the kami.</h2>
       <br />
       <Button.Group size="large">
+        <Button
+          size="large"
+          icon={<LinkedinOutlined />}
+          href="https://linkedin.com/in/alvinl-li"
+          target="_blank"
+        >
+          LinkedIn
+        </Button>
+        
         <Button
           size="large"
           icon={<GithubOutlined />}
