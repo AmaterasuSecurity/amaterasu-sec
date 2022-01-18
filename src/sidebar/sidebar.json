@@ -4,9 +4,7 @@
     "entry": "Docs",
     "name": "Docs",
     "link": "/docs",
-    "items": [
-      "write-ups"
-    ]
+    "items": "write-ups"
   },
   {
     "name": "Write-Ups",
