@@ -15,7 +15,7 @@ const IndexPage = () => {
       >
         Amaterasu Security
       </p>
-      <h2>This is just the icing on the cake...</h2>
+      <h2>The great sun of the kami.</h2>
       <br />
       <Button.Group size="large">
         <Button
