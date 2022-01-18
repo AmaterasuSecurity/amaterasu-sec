@@ -3,10 +3,9 @@ date: 01172022
 title: Mr.Robot CTF
 ---
 
-# First Blog
+##Mr Robot CTF
 
-> Mr Robot CTF
-“I never want to be right about my hacks, but people always find a way to disappoint”
+>“I never want to be right about my hacks, but people always find a way to disappoint”
 
 This room is themed around the popular series on Netflix called Mr.Robot. The story follows a person named Elliot Alderson, a cybersecurity engineer and hacker with social anxiety disorder and clinical depression. Elliot is recruited by an insurrectionary anarchist known as "Mr. Robot", played by Christian Slater, to join a group of hacktivists called "fsociety”. The group aims to destroy all debt records by encrypting the financial data of E Corp, the largest conglomerate in the world.
 
