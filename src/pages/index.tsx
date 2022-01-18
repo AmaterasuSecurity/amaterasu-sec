@@ -3,6 +3,8 @@ import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
 import amaterasu from "../../images/amaterasu.jpg"
+import Layout from 'src/Layout'
+
 const IndexPage = () => {
   return (
     <div align="center" style={{ padding: 80 }}>
@@ -14,8 +16,10 @@ const IndexPage = () => {
         }}
       >
         Amaterasu Security
+      <Layout>
+        <img src={'../../amaterasu.jpg'} />
+      </Layout>
  
- <img src={'../../amaterasu.jpg'} />
       </p>
       <h2>The great sun of the kami.</h2>
       <br />
