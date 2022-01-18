@@ -14,13 +14,13 @@ export class Header extends Component<Props> {
       <Row>
         <Menu mode="horizontal">
           <Menu.Item>
-            <Link to="/docs/template/get-started/introduction/">
+            <Link to="/docs/write-ups/">
               {siteTitle}
             </Link>
           </Menu.Item>
           <Menu.Item icon={<GithubOutlined />}>
             <a
-              href="https://github.com/jannikbuschke/gatsby-antd-docs"
+              href="https://github.com/dr0pp3dpack3ts"
               target="_blank"
             >
               GitHub

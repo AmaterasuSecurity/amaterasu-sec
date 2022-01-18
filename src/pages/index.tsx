@@ -14,6 +14,8 @@ const IndexPage = () => {
         }}
       >
         Amaterasu Security
+        <h1>Static Import</h1>
+        <img src={'../../amaterasu.jpg'} alt="Amaterasu Okami" />
       </p>
       <h2>The great sun of the kami.</h2>
       <br />
