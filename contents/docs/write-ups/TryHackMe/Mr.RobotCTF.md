@@ -1,7 +1,7 @@
 ---
-date: '17012022'
+date: '2022-01-17'
 title: Mr.Robot CTF
-root: '/TryHackMe'
+root: '/docs'
 ---
 
 ##Mr Robot CTF
