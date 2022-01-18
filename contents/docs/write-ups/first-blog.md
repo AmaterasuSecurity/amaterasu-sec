@@ -1,7 +1,7 @@
 ---
-date: '2019-02-13'
-title: First Blog
-root: '/blog'
+title: Mr.Robot CTF
+sidebar: Docs
+showTitle: true
 ---
 
 # First Blog
