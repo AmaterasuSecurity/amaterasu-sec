@@ -1,10 +1,10 @@
 [
   {
-    "name": "Write-Ups",
+    "name": "TryHackMe",
     "link": "/writeups/TryHackMe/"
   },
   {
-    "name": "Write-Ups",
+    "name": "HackTheBox",
     "link":"/writeups/HackTheBox/"
   }
 ]
