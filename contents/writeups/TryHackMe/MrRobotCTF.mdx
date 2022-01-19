@@ -13,11 +13,11 @@ This room is themed around the popular series on Netflix called Mr.Robot. The st
 
 This room has two tasks with Task 1 giving you instructions on how to connect to the VPN. This isn't important if you are using the attackbox or kali box that TryHackMe already provides us with, so we will skip this task.I will be using the attackbox provided. My approach to these write-ups will be more narrative and I will try to guide you through my process on things that I have tried in regards to what gave results and what didn’t. Enjoy!
 
-Task 2: Hack the machine
+# Task 2: Hack the machine
 
 
 
-Enumeration
+# Enumeration
 Oh, hey! Didn’t notice you there. Looks like you stumbled upon me trying to hack into E Corp. There are three keys hidden in their servers that I am trying to find. You must hate E Corp as much as I do if you’re here. Let’s work together to get what we need. Okay we need to somehow enumerate and get information about their servers… How do we do that…? Think Alvin.. Think… Do you happen to know? Oh! Got it! I can use nmap to scan for any open ports and use that to my advantage! What were the commands again… Hmm… Oh! That’s right… nmap -v -sCV targetIP. What this will do is make it verbose so it will show the scanning process so we won't see a blank terminal, attempt to find version information, and run a default NSE script built into nmap. 
 
 Excellent! This output on the terminal gave me enough information to get started. Genius! Sometimes, I think I'm too smart for my own good, heheh. It looks like they have two ports opened, 22 and 80. That is SSH and HTTP. With SSH, we can remote in if needed but first let’s take a look at their apache webpage.
@@ -38,7 +38,7 @@ Now, let's see if we can download those two files we found and inspect it. Okay,
 
 I’ve downloaded the fsocity.dic file. Now let’s use the cat command on the terminal to see what is in the dictionary file.
 
-Exploitation
+# Exploitation
 Nice! What now? What can I do with this dictionary file? Friend, do you have any ideas? I think this dictionary file can be used for something else but what? Wasn’t there a tool that we can use a wordlist against a http webpage? Oh, Hydra… Good thinking. But wait… I think we are missing something… Oh, I remember seeing dirb finding a wordpress login directory. Let’s take a look at that.
 
 There it is! A login page. Let’s try some default credentials like admin/admin.
@@ -108,7 +108,7 @@ We see it. Now we will change into that directory and list files again.
 Now, let's view the file contents…
 
 
-The End
+# The End
 I can’t believe it… It’s over… This is the end of the tunnel, friend. We got the last key and now we own E Corp. Thanks for coming along with me on this journey. We can finally rest easy knowing that E Corp doesn’t have power anymore. I would like to thank you and this is where we part ways…
 
 
