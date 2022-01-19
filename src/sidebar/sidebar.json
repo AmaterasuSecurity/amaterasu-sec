@@ -5,12 +5,20 @@
     "items": [
       {
         "name": "TryHackMe",
+        "link": "/writeups/TryHackMe/"
+      },
+       {
+        "name": "TryHackMe",
         "link": "/writeups/TryHackMe/MrRobotCTF"
       },
       {
         "name": "HackTheBox",
         "link": "/writeups/HackTheBox/"
-      }
+      },
+       {
+        "name": "HackTheBox",
+        "link": "/writeups/HackTheBox/post"
+      },
     ]
   }
 ]
