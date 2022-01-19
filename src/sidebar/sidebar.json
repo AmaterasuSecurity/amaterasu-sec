@@ -5,8 +5,8 @@
     "items": [
       {
         "name": "TryHackMe",
-        "link": "/writeups/TryHackMe/MrRobotCTF",
-      }
+        "link": "/writeups/TryHackMe/MrRobotCTF"
+      },
       {
         "name": "HackTheBox",
         "link": "/writeups/HackTheBox/"
