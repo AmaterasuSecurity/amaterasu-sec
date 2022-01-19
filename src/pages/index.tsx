@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
 import write-ups from '../../contents'
-import amaterasu from '../images'
+import amaterasu from '../static'
 
 
 
@@ -21,7 +21,7 @@ const IndexPage = () => {
 
        const images = () => (
          <div>
-           <img src={amaterasu} className={images.amaterasu} />
+           <img src={amaterasu} className={static.amaterasu} />
          </div>
        )
 
