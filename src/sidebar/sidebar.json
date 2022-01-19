@@ -5,12 +5,12 @@
     "items": [
        {
         "name": "Mr.Robot CTF",
-        "link": "/writeups/TryHackMe/MrRobotCTF",
+        "link": "/writeups/TryHackMe/MrRobotCTF"
       },
     ]
    { 
     "name": "HackTheBox",
-    "link": "",
+    "link": ""
     "items": [
        {
         "name": "Untitled",
