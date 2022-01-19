@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
 import writeups from '../../contents'
-import amaterasu from '../static'
+
 
 
 
@@ -17,14 +17,7 @@ const IndexPage = () => {
           fontWeight: 'bold',
         }}
       >
-        Amaterasu Security 
-
-        <br/>
-       
-         
-           <img src={amaterasu} className={static.amaterasu} />
-        
-       
+        Amaterasu Security    
 
       </p>
       <h2>The great sun of the kami.</h2>
