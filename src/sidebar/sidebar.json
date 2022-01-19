@@ -13,10 +13,10 @@
     "name": "HackTheBox",
     "link": "",
     "items": [
-      { "name": "Post1", "link": "/writeups/HackTheBox" },
-      { "name": "Post2", "link": "/writeups/HackTheBox" },
-      { "name": "Post3", "link": "/writeups/HackTheBox" },
-      { "name": "Post3", "link": "/writeups/HackTheBox" }
+//      { "name": "Post1", "link": "/writeups/HackTheBox" },
+//      { "name": "Post2", "link": "/writeups/HackTheBox" },
+//      { "name": "Post3", "link": "/writeups/HackTheBox" },
+//      { "name": "Post3", "link": "/writeups/HackTheBox" }
     ]
   }
     ]
