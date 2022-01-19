@@ -19,7 +19,8 @@ const IndexPage = () => {
       >
         Amaterasu Security 
 
-       const static = () => (
+        <br/>
+       const static = () =&gt; (
          <div>
            <img src={amaterasu} className={static.amaterasu} />
          </div>
