@@ -3,20 +3,22 @@
     "name": "TryHackMe",
     "link": "",
     "items": [
-       {
+      {
         "name": "Mr.Robot CTF",
         "link": "/writeups/TryHackMe/MrRobotCTF"
-       }  
+      }
     ]
   },
-   { 
+  {
     "name": "HackTheBox",
-    "link": ""
+    "link": "",
     "items": [
-       {
-        "name": "Untitled",
-        "link": "/writeups/HackTheBox/post"
-      }
+      { "name": "Post1", "link": "/writeups/HackTheBox" },
+      { "name": "Post2", "link": "/writeups/HackTheBox" },
+      { "name": "Post3", "link": "/writeups/HackTheBox" },
+      { "name": "Post3", "link": "/writeups/HackTheBox" }
+    ]
+  }
     ]
   }
 ]
