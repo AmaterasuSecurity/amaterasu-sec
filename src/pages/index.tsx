@@ -2,7 +2,7 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
-import writeups from '../../contents'
+import write-ups from '../../contents'
 
 const IndexPage = () => {
   return (
