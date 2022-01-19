@@ -2,7 +2,7 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
-import write-ups from '../../contents'
+import writeups from '../../contents'
 import amaterasu from '../static'
 
 
@@ -49,7 +49,7 @@ const IndexPage = () => {
         </Button>
 
         <Button type="primary" size="large">
-          <Link to="/docs/write-ups/">Write-Ups</Link>
+          <Link to="/docs/writeups/">Write-Ups</Link>
         </Button>
       </Button.Group>
     </div>
