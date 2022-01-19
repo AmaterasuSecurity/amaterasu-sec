@@ -10,13 +10,13 @@
     ]
    { 
     "name": "HackTheBox",
-    "link": "",
+    "link": ""
     "items": [
       },
        {
         "name": "Untitled",
         "link": "/writeups/HackTheBox/post"
-      },
+      }
     ]
   }
 ]
