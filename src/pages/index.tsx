@@ -2,7 +2,6 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
-import Layout from "src/Layout"
 
 const IndexPage = () => {
   return (
@@ -18,9 +17,7 @@ const IndexPage = () => {
                  
       </p>
       <h2>The great sun of the kami.</h2>
-      <Layout>
-          <img src={`../static/amaterasu.jpg`}
-        </Layout>
+    
       <br />
       <Button.Group size="large">
         <Button
