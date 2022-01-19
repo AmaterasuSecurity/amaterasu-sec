@@ -20,11 +20,11 @@ const IndexPage = () => {
         Amaterasu Security 
 
         <br/>
-       const static = () =&gt; (
-         <div>
+       
+         
            <img src={amaterasu} className={static.amaterasu} />
-         </div>
-       )
+        
+       
 
       </p>
       <h2>The great sun of the kami.</h2>
