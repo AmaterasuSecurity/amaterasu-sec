@@ -1,22 +1,23 @@
 [
   {
-    "name": "Write-Ups",
+    "name": "TryHackMe",
+    "link": "",
+    "items": [
+       {
+        "name": "Mr.Robot CTF",
+        "link": "/writeups/TryHackMe/MrRobotCTF"
+      },
+    ]
+   { 
+    "name": "HackTheBox",
     "link": "",
     "items": [
       {
-        "name": "TryHackMe",
-        "link": "/writeups/TryHackMe/"
-      },
-       {
-        "name": "TryHackMe",
-        "link": "/writeups/TryHackMe/MrRobotCTF"
-      },
-      {
-        "name": "HackTheBox",
+        "name": "Untitled",
         "link": "/writeups/HackTheBox/"
       },
        {
-        "name": "HackTheBox",
+        "name": "Untitled",
         "link": "/writeups/HackTheBox/post"
       },
     ]
