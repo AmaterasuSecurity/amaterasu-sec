@@ -6,8 +6,9 @@
        {
         "name": "Mr.Robot CTF",
         "link": "/writeups/TryHackMe/MrRobotCTF"
-      }
+       }  
     ]
+  },
    { 
     "name": "HackTheBox",
     "link": ""
