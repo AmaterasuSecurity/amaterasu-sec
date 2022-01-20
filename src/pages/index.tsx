@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
 import amaterasu from '../images/amaterasu.jpg'
-
+import ResizeImage from 'react-resize-image'
 
 
 
@@ -19,7 +19,10 @@ const IndexPage = () => {
       >
         Amaterasu Security    
         <div>
-          <img src={amaterasu}/>
+          <ResizeImage
+            img src={amaterasu}
+            options={{ width: 200 }}
+            />
         </div>
       </p>
       <h2>The great sun of the kami.</h2>
