@@ -5,7 +5,7 @@
     "items": [
       {
         "name": "TryHackMe - Mr.Robot CTF",
-        "link": "/writeups/TryHackMe/MrRobotCTF"
+        "link": "/writeups/TryHackMe/MrRobotCTF/"
       }
     ]
   },
@@ -15,7 +15,7 @@
     "items": [
       {
         "name": "HackTheBox - Contents",
-        "link": "/writeups/HackTheBox/contents"
+        "link": "/writeups/HackTheBox/contents/"
       }  
     ]
   }
