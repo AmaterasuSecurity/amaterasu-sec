@@ -2,7 +2,7 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
-import amaterasu from '../static/amaterasu'
+import amaterasu from '../images'
 
 
 
@@ -18,7 +18,7 @@ const IndexPage = () => {
         }}
       >
         Amaterasu Security    
-        <img src={amaterasu.jpg} />
+        <img src={amaterasu}/>
       </p>
       <h2>The great sun of the kami.</h2>
     
