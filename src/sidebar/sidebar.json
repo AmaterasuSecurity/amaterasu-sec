@@ -7,22 +7,22 @@
         "name": "TryHackMe - Mr.Robot CTF",
         "link": "/writeups/TryHackMe/MrRobotCTF/"
       },
-      {
-        "name": "TryHackMe - Wreath",
-        "link": "/writeups/TryHackMe/Wreath/"
-      },
-      {
-        "name": "TryHackMe - Internal",
-        "link": "/writeups/TryHackMe/Internal/"
-      },
-      {
-        "name": "TryHackMe - Relevant",
-        "link": "/writeups/TryHackMe/Relevant/"
-      },
-      {
-        "name": "TryHackMe - Gatekeeper",
-        "link": "/writeups/TryHackMe/Gatekeeper/"
-      },
+            {
+              "name": "TryHackMe - Wreath",
+              "link": "/writeups/TryHackMe/Wreath/"
+            },
+            {
+              "name": "TryHackMe - Internal",
+              "link": "/writeups/TryHackMe/Internal/"
+            },
+            {
+              "name": "TryHackMe - Relevant",
+              "link": "/writeups/TryHackMe/Relevant/"
+            },
+            {
+              "name": "TryHackMe - Gatekeeper",
+              "link": "/writeups/TryHackMe/Gatekeeper/"
+            },
     ]
   },
   {
