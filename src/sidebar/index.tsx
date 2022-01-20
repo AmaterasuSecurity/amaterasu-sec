@@ -59,6 +59,12 @@ export function Sidebar() {
                 items {
                   name
                   link
+                  name
+                  link
+                  name
+                  link
+                  name
+                  link
                 }
               }
             }
