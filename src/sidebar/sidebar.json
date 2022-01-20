@@ -6,6 +6,10 @@
       {
         "name": "TryHackMe - Mr.Robot CTF",
         "link": "/writeups/TryHackMe/MrRobotCTF/"
+      },
+       {
+        "name": "TryHackMe - Wreath",
+        "link": "/writeups/TryHackMe/Wreath/"
       }
     ]
   },
