@@ -76,7 +76,7 @@ export function RootLayout({ children }: React.PropsWithChildren<{}>) {
               <Layout>
                 <Content
                   style={{
-                    background: '#000',
+                    background: '#fff',
                     padding: 24,
                     margin: 0,
                   }}
