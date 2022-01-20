@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import { Button, Menu, Row } from 'antd'
-import { GithubOutlined } from '@ant-design/icons'
+import { GithubOutlined, HomeOutlined } from '@ant-design/icons'
 
 interface Props {
   siteTitle: string
@@ -13,7 +13,7 @@ export class Header extends Component<Props> {
     return (
       <Row>
         <Menu mode="horizontal">
-          <Menu.Item>
+          <Menu.Item icon={<HomeOutlined />}>
             <Link to="https://www.amaterasu-sec.com">
               {siteTitle}
             </Link>
