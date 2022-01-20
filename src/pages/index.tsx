@@ -2,8 +2,8 @@ import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
 import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
-import writeups from '../../contents'
 import amaterasu from '../static'
+
 
 
 
