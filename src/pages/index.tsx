@@ -21,7 +21,7 @@ const IndexPage = () => {
         <div>
           <ResizeImage
             img src={amaterasu}
-            options={{ width: 200 }}
+            options={{ aspect: 16/9 }}
             />
         </div>
       </p>
