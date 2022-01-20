@@ -89,7 +89,7 @@ export function RootLayout({ children }: React.PropsWithChildren<{}>) {
             <Layout>
               <Sider
                 width={200}
-                style={{ background: '#000', height: '100%' }}
+                style={{ background: '#fff', height: '100%' }}
               />
             </Layout>
           </div>
