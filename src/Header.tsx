@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { Link } from 'gatsby'
 import { Button, Menu, Row } from 'antd'
-import { GoogleOutlined, HomeOutlined } from '@ant-design/icons'
+import { GithubOutlined, HomeOutlined } from '@ant-design/icons'
 
 interface Props {
   siteTitle: string
@@ -18,12 +18,12 @@ export class Header extends Component<Props> {
               {siteTitle}
             </Link>
           </Menu.Item>
-          <Menu.Item icon={<GoogleOutlined />}>
+          <Menu.Item icon={<GithubOutlined />}>
             <a
-              href="https://drive.google.com/drive/u/0/folders/0AO4GkdxNwv-DUk9PVA"
+              href="https://github.com/dr0pp3dpack3ts"
               target="_blank"
             >
-              Pen Test Reports
+              Github
             </a>
           </Menu.Item>
         </Menu>
