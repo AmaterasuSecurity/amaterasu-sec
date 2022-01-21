@@ -34,5 +34,15 @@
         "link": "/writeups/HackTheBox/contents/"
       }  
     ]
+  },
+  {
+    "name": "Resources and Tools",
+    "link": "",
+    "items": [
+      {
+        "name": "Content",
+        "link": "/Resources and Tools"
+      }  
+    ]
   }
     ]

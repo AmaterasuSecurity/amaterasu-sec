@@ -6,5 +6,9 @@
   {
     "name": "HackTheBox",
     "link":"/writeups/HackTheBox/"
+  },
+  {
+    "name": "Resources and Tools",
+    "link":"/Resources and Tools"
   }
 ]
