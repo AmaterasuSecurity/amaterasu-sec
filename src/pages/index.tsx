@@ -40,7 +40,7 @@ const IndexPage = () => {
           href="https://drive.google.com/drive/u/0/folders/0AO4GkdxNwv-DUk9PVA"
           target="_blank"
         >
-          Github
+          PenTest Reports
         </Button>
 
         <Button type="primary" size="large">
