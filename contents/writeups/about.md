@@ -16,4 +16,4 @@ parents: ["contents"]
 
 ## Badges
 
- ![ <img src="https://tryhackme-badges.s3.amazonaws.com/cyberalvin.png" alt="TryHackMe">]()
+ ![<script src="https://tryhackme.com/badge/5813"></script>]
