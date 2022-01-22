@@ -13,4 +13,4 @@ parents: ["contents"]
 
 ## Badges
 
- <script src="https://tryhackme.com/badge/5813"></script>
+ ![<script src="https://tryhackme.com/badge/5813"></script>]()
