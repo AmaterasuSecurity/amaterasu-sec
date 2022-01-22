@@ -26,6 +26,10 @@
             {
               "name": "TryHackMe - Gatekeeper",
               "link": "/writeups/TryHackMe/Gatekeeper/"
+            },
+            {
+              "name": "TryHackMe - Linux Privesc",
+              "link": "/writeups/TryHackMe/LinuxPrivesc/"
             }
     ]
   },
