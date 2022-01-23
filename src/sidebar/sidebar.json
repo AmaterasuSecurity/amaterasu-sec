@@ -30,6 +30,10 @@
             {
               "name": "TryHackMe - Linux Privesc",
               "link": "/writeups/TryHackMe/LinuxPrivesc/"
+            },
+            {
+              "name": "TryHackMe - Windows Privesc",
+              "link": "/writeups/TryHackMe/WindowsPrivesc/"
             }
     ]
   },

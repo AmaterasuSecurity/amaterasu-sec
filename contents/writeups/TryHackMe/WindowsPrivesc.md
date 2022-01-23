@@ -1,11 +1,11 @@
 ---
 date: '2022-01-22'
-title: Linux Privesc
+title: Windows Privesc
 root: '/contents'
 parents: ["TryHackMe"]
 ---
 
-## Linux Privilege Escalation Room
+## Windows Privilege Escalation Room
 ```
 
 ```
