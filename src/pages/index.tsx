@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
 import { Button } from 'antd'
-import { GoogleOutlined, LinkedinOutlined  } from '@ant-design/icons'
+import { GithubOutlined, LinkedinOutlined  } from '@ant-design/icons'
 import amaterasu from '../images/amaterasusmall.jpg'
 
 
@@ -36,8 +36,8 @@ const IndexPage = () => {
         
         <Button
           size="large"
-          icon={<GoogleOutlined />}
-          href="https://drive.google.com/drive/u/0/folders/0AO4GkdxNwv-DUk9PVA"
+          icon={<GithubOutlined />}
+          href="https://github.com/dr0pp3dpack3ts/PenTestReports"
           target="_blank"
         >
           PenTest Reports
