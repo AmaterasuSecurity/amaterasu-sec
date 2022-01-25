@@ -7,9 +7,9 @@ parents: ["Resources and Tools"]
 
 ## Things I found useful
 ```
-![BlackLanternSecurity - Writehat](https://github.com/blacklanternsecurity/writehat)
+[BlackLanternSecurity - Writehat](https://github.com/blacklanternsecurity/writehat)
 
 
 
-![GTFOBINS Github](https://gtfobins.github.io/)
+[GTFOBINS Github](https://gtfobins.github.io/)
 ```
