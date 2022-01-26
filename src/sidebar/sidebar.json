@@ -54,7 +54,11 @@
       {
         "name": "Content",
         "link": "/Resources-and-Tools/content/"
-      }  
+      },
+            {
+        "name": "Content",
+        "link": "/Resources-and-Tools/methodologies/"
+      } 
     ]
   }
     ]
