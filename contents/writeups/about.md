@@ -5,7 +5,7 @@ root: '/contents'
 parents: ["contents"]
 ---
 
-## About Me
+# About Me
 
 ```
  Hi there, my name is Alvin aka dpackets. I have various hobbies such as CTFs, hacking challenges, 
@@ -14,5 +14,6 @@ parents: ["contents"]
 
  ```
 
-## Badges
+# Badges
 
+![TryHackMe Jr. Pen Tester](../images/jrpentester.png "TryHackMe Jr. Pen Tester")
