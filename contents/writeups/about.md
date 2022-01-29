@@ -16,4 +16,4 @@ parents: ["contents"]
 
 # Badges
 
-![TryHackMe Jr. Pen Tester](/amaterasu-sec/images/jrpentester.png "TryHackMe Jr. Pen Tester")
+![TryHackMe Jr. Pen Tester](src/images/jrpentester.png "TryHackMe Jr. Pen Tester")
