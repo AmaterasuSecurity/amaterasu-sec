@@ -34,7 +34,12 @@
             {
               "name": "TryHackMe - Windows Privesc",
               "link": "/writeups/TryHackMe/WindowsPrivesc/"
+            },
+            {
+              "name": "TryHackMe - Start Up",
+              "link": "/writeups/TryHackMe/startup/"
             }
+    
     ]
   },
   {
