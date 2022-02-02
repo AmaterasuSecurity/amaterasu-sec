@@ -34,13 +34,10 @@ const IndexPage = () => {
           LinkedIn
         </Button>
         
-        <Button
-          size="large"
+        <Button type="primary" size="large">
+          <Link to="/ContactMe/">Contact Me</Link>
         
-          href="lialvin01@protonmail.com"
-          target="_blank"
-        >
-          Contact Me
+          
         </Button>
         
         <Button
