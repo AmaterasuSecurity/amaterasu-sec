@@ -36,6 +36,15 @@ const IndexPage = () => {
         
         <Button
           size="large"
+        
+          href="lialvin01@protonmail.com"
+          target="_blank"
+        >
+          Contact Me
+        </Button>
+        
+        <Button
+          size="large"
           icon={<GithubOutlined />}
           href="https://github.com/dr0pp3dpack3ts/PenTestReports"
           target="_blank"
