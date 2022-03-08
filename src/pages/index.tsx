@@ -35,7 +35,7 @@ const IndexPage = () => {
         </Button>
         
         <Button type="primary" size="large">
-          <Link to="/ContactMe/">Contact Me</Link>
+          <Link to="/Contact/">Contact Me</Link>
         
           
         </Button>
