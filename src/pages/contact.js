@@ -1,20 +1,16 @@
-<form method="post" action="#">
-  <label>
-    Name
-    <input type="text" name="name" id="name" />
-  </label>
+<form method="post" action="https://getform.io/{your-unique-getform-endpoint}">
+  ...
   <label>
     Email
-    <input type="email" name="email" id="email" />
+    <input type="email" name="email" />
   </label>
   <label>
-    Subject
-    <input type="text" name="subject" id="subject" />
+    Name
+    <input type="text" name="name" />
   </label>
   <label>
     Message
-    <textarea name="message" id="message" rows="5" />
+    <input type="text" name="message" />
   </label>
-  <button type="submit">Send</button>
-  <input type="reset" value="Clear" />
+  ...
 </form>
