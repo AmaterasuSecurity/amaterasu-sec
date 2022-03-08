@@ -34,6 +34,12 @@ const IndexPage = () => {
           LinkedIn
         </Button>
         
+        <Button type="primary" size="large">
+          <Link to="/ContactMe/">Contact Me</Link>
+        
+          
+        </Button>
+        
         <Button
           size="large"
           icon={<GithubOutlined />}
