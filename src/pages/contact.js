@@ -1,4 +1,4 @@
-<form method="post" action="https://getform.io/{your-unique-getform-endpoint}">
+<form method="post" action="https://getform.io/f/5fbeff20-1b67-4551-a88e-6a9af48a9311">
   ...
   <label>
     Email
