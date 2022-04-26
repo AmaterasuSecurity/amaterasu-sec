@@ -35,9 +35,8 @@ const IndexPage = () => {
         </Button>
         
         <Button type="primary" size="large">
-          <Link to="/Contact/">Contact Me</Link>
-        
-          
+        onClick={() => window.location = 'mailto:contactme@amaterasu-sec.com'}>Contact Me
+     
         </Button>
         
         <Button
